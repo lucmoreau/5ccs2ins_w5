@@ -7,6 +7,7 @@ A simple node.js web service for week 5 of 5CCS2INS
 
 ```
 heroku login
+heroku create
 git push heroku main
 heroku ps:scale web=1
 ```
