@@ -21,7 +21,7 @@ heroku logs
 ## To run locally
 
 ```
-node http-server-week4-local.js 
+node jwt-example.js
 ```
 
 
